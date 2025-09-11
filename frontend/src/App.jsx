@@ -32,6 +32,7 @@ function App() {
           <Route path="/SuccessfulReset" element={<SuccessfulReset />} />
           <Route path="/InstructorDashboard" element={<InstructorDashboard />} />
           <Route path="/LectureOverview" element={<LectureOverview />} />
+          
 
           
         </Routes>
